@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bg-rojo-sienna {
+  background-color: #bf493a;
+}
+.bg-dark-blue {
+  background-color: #373945;
+}
+.bg-ligth-dark-blue {
+  background-color: #546180;
+}
+
+.outline-green {
+  border: solid 1px green
+}
+
+
+.icon-box {
+  height: 60px;
+  width: 60px;
+  background-color: #fff;
+}
+.first-section {
+  background-color: #bf493a;
+  
+}
+
+.img-cel {
+  width: 200px;
+}
+.mobile-patch {
+  flex-direction: column;
+  align-items: center;
+}
+
+
+@media (min-width: 768px) { 
+  .reverse-order {
+    flex-direction: row-reverse;
+  }
+}
+
+@media (min-width: 992px) { 
+
+
+ }
