@@ -97,6 +97,11 @@ p {
 .text-center-2 {
   text-align: center;
 }
+.pd-tb-30 {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
 @media (min-width: 768px) { 
   .reverse-order {
     flex-direction: row-reverse;
@@ -107,6 +112,9 @@ p {
   }
   .heigth-100 {
     height: 400px;;
+  }
+  .mg-left-7 {
+    margin-left: 5%;
   }
   
   .align-items-center-2 {
